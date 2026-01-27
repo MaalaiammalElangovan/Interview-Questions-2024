@@ -1,1 +1,1 @@
-These questions for asked in the interview for Goldman Sachs via Apexon
+These questions were asked in the interview for Goldman Sachs via Apexon
