@@ -7,4 +7,5 @@ function maskEmail(email) {
   var email = 'example@example.com';
   var maskedEmail = maskEmail(email);
   console.log(maskedEmail); // Output: ex****@example.com
+
   
