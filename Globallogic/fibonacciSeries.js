@@ -11,3 +11,4 @@ function fibonacciSequence(n) {
 
 let n = 10;
 console.log(fibonacciSequence(n));
+
